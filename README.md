@@ -85,15 +85,15 @@ src/main/java/org/example/paf_w5_submission/
 2.  Build the project
 
     bash
-
+```
     mvn clean install
-
+```
 3.  Run the application
-
+```
     bash
 
     mvn spring-boot:run
-
+```
     Or run the main class `PafW5SubmissionApplication` from your IDE.
 
 4.  Access the application
