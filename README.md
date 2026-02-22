@@ -156,9 +156,7 @@ This project is for educational purposes as part of the PAF course.
 -----------------
 
 -   PAF Course Instructors
-
 -   Spring Boot Documentation
-
 -   Open source community
 
 * * * * *
