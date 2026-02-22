@@ -41,11 +41,8 @@ src/main/java/org/example/paf_w5_submission/
 ### 1\. Root Endpoint
 
 -   URL: `/`
-
 -   Method: `GET`
-
 -   Response: `"Your Spring Boot Application is Alive.!"`
-
 -   Logs: Records access to root endpoint
 
 ### 2\. Basic Greeting
