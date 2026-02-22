@@ -69,9 +69,7 @@ src/main/java/org/example/paf_w5_submission/
 ### Prerequisites
 
 -   Java Development Kit (JDK) 17 or later
-
 -   Maven 3.6+
-
 -   Your favorite IDE (IntelliJ IDEA, Eclipse, VS Code)
 
 ### Installation
