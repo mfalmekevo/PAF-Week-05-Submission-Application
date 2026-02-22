@@ -55,19 +55,12 @@ src/main/java/org/example/paf_w5_submission/
 ### 3\. Personalized Greeting
 
 -   URL: `/greet/{name}`
-
 -   Method: `GET`
-
 -   Path Variable: `name` - Person's name
-
 -   Query Parameter: `message` (optional) - Custom message
-
 -   Response Examples:
-
     -   Without custom message: `"Hello John! Welcome to Spring Boot!"`
-
     -   With custom message: `"Hello John! Have a great day!"`
-
 -   Logs: Records name and any custom message provided
 
 🚦 Getting Started
