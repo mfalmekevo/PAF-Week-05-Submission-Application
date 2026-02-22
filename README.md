@@ -12,15 +12,10 @@ This project is a submission for Week 5 of the PAF (Programming Application Fram
 -----------
 
 -   Root Endpoint: Basic health check endpoint
-
 -   Greeting Endpoints: Multiple endpoints demonstrating different parameter handling
-
     -   Simple greeting without parameters
-
     -   Personalized greeting with path variables
-
     -   Custom messages using query parameters
-
 -   Logging: Comprehensive logging for all endpoint access
 
 🛠️ Technology Stack
