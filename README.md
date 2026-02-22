@@ -48,11 +48,8 @@ src/main/java/org/example/paf_w5_submission/
 ### 2\. Basic Greeting
 
 -   URL: `/greet`
-
 -   Method: `GET`
-
 -   Response: `"Welcome to Spring Boot!"`
-
 -   Logs: Records access to greet endpoint
 
 ### 3\. Personalized Greeting
