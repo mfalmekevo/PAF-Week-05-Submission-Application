@@ -139,9 +139,7 @@ INFO GreetingController: Custom message provided: Have a nice day!
 You can test the endpoints manually using:
 
 -   Web browser for GET requests
-
 -   Postman/Insomnia for API testing
-
 -   curl commands in terminal
 
 🤝 Contributing
